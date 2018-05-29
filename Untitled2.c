@@ -1,4 +1,4 @@
-void bubbleSort(const int  *a){
+void bubbleSort(const int  *const a){
 	int i,j,temp;
 	int faker[5];
 	for(i=0;i<5;i++){
